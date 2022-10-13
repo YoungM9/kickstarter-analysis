@@ -1,6 +1,8 @@
 # Kickstarter-Analysis
+
 **Overview of Project: Explain the purpose of this analysis.**
 The purpose of the analysis was to determine the most important dimensions of the most successful campaigns that were categorized as plays, and emulate it based on the data analyzed from the Kickstarter file.
+
 **Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.**
 To perform my analysis I used different sheets to separate the data after filtering for outcomes. I then went to the outcomes analysis sheet where I used the code
 ~~~
